@@ -30,7 +30,7 @@ pipeline {
                 sh "ls -la"
                 sh '''
                     echo "Line1"
-                    chmod test.sh 777
+                    chmod 777 test.sh
                     ./test.sh
                     echo "Line2"
                 '''
