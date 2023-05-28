@@ -1,2 +1,2 @@
-cat 1
-cat 2
+cat file1
+cat file2
