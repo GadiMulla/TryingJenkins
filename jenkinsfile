@@ -30,6 +30,8 @@ pipeline {
                 sh "ls -la"
                 sh '''
                     echo "Line1"
+                    chmod test.sh 777
+                    ./test.sh
                     echo "Line2"
                 '''
                 echo "End of Stage Build..."
