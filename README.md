@@ -1,2 +1,3 @@
-# jenkins28-5
-Gadiiiii
+# Jenkins
+
+Trying Jenkins on Github for the first time
